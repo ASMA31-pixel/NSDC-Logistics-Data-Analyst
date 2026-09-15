@@ -1,4 +1,4 @@
-Week 1 - Strategic Planning and Data Exploration in Logistics
+# Week 1 - Strategic Planning and Data Exploration in Logistics
 
 This folder contains the Week 1 work for the NSDC Logistics Data Analyst Internship.
 
