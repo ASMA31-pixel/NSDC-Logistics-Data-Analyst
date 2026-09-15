@@ -29,7 +29,7 @@ The task focuses on preparing logistics data for reliable analysis by applying d
 
 ## Files
 
-- `NSDC_Logistics_Data_Analyst_Week_2_Report.docx` — Week 2 report
+- `Week 2 Report.docx` — Week 2 report
 - `logistics_data_preprocessing.py` — Python preprocessing script
 - `README.md` — Documentation for Week 2
 
