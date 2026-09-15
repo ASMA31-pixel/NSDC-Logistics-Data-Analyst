@@ -25,7 +25,7 @@ The task focuses on performing exploratory data analysis (EDA) and creating visu
 
 ## Files
 
-- `NSDC_Logistics_Data_Analyst_Week_3_Report.docx` — Week 3 report
+- `Week 3 Report.docx` — Week 3 report
 - `logistics_data_analysis.py` — Python analysis script
 - `README.md` — Documentation for Week 3
 
