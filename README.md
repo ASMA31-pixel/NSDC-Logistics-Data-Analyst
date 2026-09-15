@@ -71,3 +71,24 @@ NSDC Logistic Data Analyst/
 ├── Week-2/
 ├── Week-3/
 └── Week-4/
+Skills Demonstrated
+Data Analysis
+Data Cleaning
+Data Preprocessing
+Exploratory Data Analysis
+Data Visualization
+Feature Engineering
+Predictive Modeling
+Model Evaluation
+Logistics KPI Analysis
+Python Programming
+Technical Documentation
+Dataset Note
+A publicly available synthetic logistics delivery dataset was used as the reference dataset for this academic project. The original dataset is not redistributed in this repository.
+Author
+Asma Siddhiqa R
+B.Tech Artificial Intelligence & Data Science
+Jeppiaar Institute of Technology
+
+**Important:** This is the **root README**, separate from the Week-1 to Week-4 READMEs.
+
