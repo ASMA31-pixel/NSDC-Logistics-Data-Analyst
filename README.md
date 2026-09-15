@@ -27,14 +27,16 @@ The project focuses on applying Python and data analysis techniques to logistics
 ## Weekly Work
 
 ### Week 1 — Strategic Planning and Data Exploration
+
 - Defined the logistics analytics problem.
 - Identified important KPIs.
 - Researched suitable logistics datasets.
 - Planned the data analysis workflow.
 
-**Folder:** `Week-1/`
+Folder: `Week-1/`
 
 ### Week 2 — Data Collection, Cleaning and Preprocessing
+
 - Examined logistics delivery data.
 - Handled missing values and duplicate records.
 - Validated data types and values.
@@ -42,53 +44,57 @@ The project focuses on applying Python and data analysis techniques to logistics
 - Created delay-related features.
 - Applied data standardization.
 
-**Folder:** `Week-2/`
+Folder: `Week-2/`
 
 ### Week 3 — Advanced Data Analysis and Visualization
+
 - Performed exploratory data analysis.
 - Analyzed logistics variables and delivery patterns.
 - Created visualizations.
 - Studied relationships between variables.
 - Identified potential factors affecting delivery delays.
 
-**Folder:** `Week-3/`
+Folder: `Week-3/`
 
 ### Week 4 — Predictive Modeling and Optimization
+
 - Prepared data for predictive modeling.
 - Built a delivery-delay classification model.
 - Evaluated model performance.
 - Analyzed feature importance.
 - Explored optimization strategies for logistics operations.
 
-**Folder:** `Week-4/`
+Folder: `Week-4/`
 
 ## Repository Structure
 
-```text
 NSDC Logistic Data Analyst/
 ├── README.md
 ├── Week-1/
 ├── Week-2/
 ├── Week-3/
 └── Week-4/
-Skills Demonstrated
-Data Analysis
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Feature Engineering
-Predictive Modeling
-Model Evaluation
-Logistics KPI Analysis
-Python Programming
-Technical Documentation
-Dataset Note
+
+## Skills Demonstrated
+
+- Data Analysis
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Engineering
+- Predictive Modeling
+- Model Evaluation
+- Logistics KPI Analysis
+- Python Programming
+- Technical Documentation
+
+## Dataset Note
+
 A publicly available synthetic logistics delivery dataset was used as the reference dataset for this academic project. The original dataset is not redistributed in this repository.
-Author
+
+## Author
+
 Asma Siddhiqa R
 B.Tech Artificial Intelligence & Data Science
 Jeppiaar Institute of Technology
-
-**Important:** This is the **root README**, separate from the Week-1 to Week-4 READMEs.
-
